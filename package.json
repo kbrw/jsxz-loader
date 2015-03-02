@@ -1,0 +1,31 @@
+{
+  "name": "jsxz-loader",
+  "version": "1.0.0",
+  "description": "JSXZ Loader is a Webpack loader which allows you to Precompile your JSX HTML components from static HTML templates using CSS selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsxz": ">=0.1.5",
+    "loader-utils": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awetzel/jsxz-loader.git"
+  },
+  "keywords": [
+    "jsx",
+    "html",
+    "react",
+    "css",
+    "enlive",
+    "template"
+  ],
+  "author": "Arnaud Wetzel <arnaud.wetzel@gmail.com> (https://github.com/awetzel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awetzel/jsxz-loader/issues"
+  },
+  "homepage": "https://github.com/awetzel/jsxz-loader"
+}
